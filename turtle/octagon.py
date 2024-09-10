@@ -1,0 +1,18 @@
+from turtle import forward , left,mainloop
+
+forward (100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+left(45)
+forward(100)
+mainloop()
